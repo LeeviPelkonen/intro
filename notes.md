@@ -1,5 +1,5 @@
 ## notes.md
-  153  git clone https://github.com/mattpe/git-intro.git
+  1sdasdasda53  git clone https://github.com/mattpe/git-intro.git
   154  ls
   155  cd git-intro/
   156  ls
@@ -13,4 +13,9 @@
   164  git commit -m "notes.mb"
   165  git status
   166  git push
-  167  history
+  167  histo
+  
+  asddj
+  no no no
+  :)))))
+  .):):):)):)ry
